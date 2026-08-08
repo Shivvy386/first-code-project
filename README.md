@@ -1,2 +1,2 @@
-# first-code-project
-This is my first cs50p project.
+# CS50P - Introduction to Programming with Python.
+
