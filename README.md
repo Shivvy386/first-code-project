@@ -9,7 +9,6 @@ Welcome to my repository for **Harvard's CS50P**! This repository contains my pr
 ## 📌 Course Topics & Problem Sets
 
 - [x] **Week 0: Functions, Variables** 
-  - `indoor.py` – Converts text to lowercase
 - [ ] **Week 1: Conditionals**
 - [ ] **Week 2: Loops**
 - [ ] **Week 3: Exceptions**
