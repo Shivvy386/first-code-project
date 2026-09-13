@@ -1,0 +1,10 @@
+due_amt = 50
+
+while due_amt > 0:
+    print("Amount Due:", due_amt)
+    coin = int(input("Insert Coin: "))
+    
+    if coin in [25, 10, 5]:
+        due_amt -= coin
+
+print("Change Owed:", abs(due_amt))
