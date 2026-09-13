@@ -1,0 +1,11 @@
+x = input("enter string in camel case: ")
+
+new_string = ""
+
+for i in x:
+    if i.isupper():
+        new_string = new_string + "_" + i.lower()
+    else:
+        new_string = new_string + i
+
+print(new_string)
