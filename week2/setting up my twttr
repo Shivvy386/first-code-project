@@ -1,0 +1,8 @@
+text = input("Input: ")
+omitted = ""
+
+for char in text:
+    if char.lower() not in "aeiou":
+        omitted += char
+
+print("Output:", omitted)
